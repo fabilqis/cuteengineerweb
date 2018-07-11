@@ -1,0 +1,70 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @fabilqis Sign out
+1
+0 0 fabilqis/reviewproject
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+reviewproject/index.css
+1f42911  33 minutes ago
+@fabilqis fabilqis change sosial media button
+    
+40 lines (33 sloc)  705 Bytes
+body {
+    margin: 0px;
+}
+
+.header {
+    background-color: #efefef;
+}
+
+.jumbotron-fluid {
+    background-image: url("/image/printed-circuit-board-print-plate-via-macro-159220.jpeg");
+    position: relative;
+    object-fit: cover;
+    min-height: 500px;
+}
+
+.container>h1 {
+    margin-top: 180px;
+    text-shadow: 4px 2px black;
+    font-family: 'Crete Round', Arial, Helvetica, sans-serif;
+}
+
+.media-body {
+    padding: 90px;
+    width: 200px;
+}
+
+.title-content {
+    background-color: #ffffff;
+    margin: 60px;
+}
+
+.card {
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: 'Passion One', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer {
+    background-color: #E3CBCB;
+}
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
+Press h to open a hovercard with more details.
